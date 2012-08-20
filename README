@@ -1,0 +1,9 @@
+Date Completed: Aug 2012
+Language: C++
+Development Environment: Qt Creator
+Important features: GUI 
+
+Converts input from one base to another base (ex. binary to hexadecimal)
+
+Able to convert interchangably from base2 to base16 and all the other
+bases inbetween. Conversion for decimal fractions are also available.  
